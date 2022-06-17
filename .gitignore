@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+=======
+/.PVS-Studio/
+/cmake-build-debug/
+>>>>>>> 0fddd5a (init)
